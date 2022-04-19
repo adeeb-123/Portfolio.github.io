@@ -385,6 +385,7 @@ section {
 .skills .progress .skill .val {
   float: right;
   font-style: normal;
+  visibility: hidden;
 }
 .skills .progress-bar-wrap {
   background: #dce8f8;
